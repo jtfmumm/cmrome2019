@@ -14,4 +14,4 @@ Pony Reference Capabilities [Tutorial](https://tutorial.ponylang.io/reference-ca
 
 Sylvan Clebtsch (2015) - [Deny Capabilities for Safe, Fast Actors](https://www.ponylang.io/media/papers/fast-cheap.pdf)
 
-John Mumm (2016) - [Safely Sharing Data](http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/) blog post
+John Mumm (2016) - [Safely Sharing Data](http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/) (blog post)
