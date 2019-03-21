@@ -8,7 +8,7 @@ Slides: ...
 
 ## Related Reading
 
-Allen B. Downey (2016) - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
+Allen B. Downey (2016) - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) \[A great introduction to thinking about synchronization problems in concurrent programming.\]
 
 Pony Reference Capabilities [Tutorial](https://tutorial.ponylang.io/reference-capabilities.html)
 
